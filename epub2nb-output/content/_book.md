@@ -2,11 +2,16 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: drama
   title: Lucerna
   identifier: 9051affe-e573-41ad-80b8-65d291636472
   author: Alois Jirásek
+  edition: beletrie
+  publisherShort: mkp
+  publisher: Městská knihovna v Praze
 readingOrder:
   - section0001.html
   - section0084.html
@@ -97,6 +102,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

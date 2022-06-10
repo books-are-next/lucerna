@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 6.
 
 Klásková, Klásek, Zima, Sejtko, předešlí.
@@ -43,3 +45,5 @@ Lípa se otevře a z ní vystoupí
 Zatím se již s výše ozval zpěv mužských hlasů:
 
 Duch rodu čistý přepevný štít v zápase věkův a síly zdroj. V něm žije otců dílo i sen, dědictví svaté i starý boj.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ## Dějství druhé
 
 Zámecká síň. Hlavní vchod v pozadí. Od něho na levo křeslo pod nebesy. Několik stupňů k němu. V pravo, v levo dvéře.
@@ -73,3 +75,5 @@ Vrchní, pan Franc.
 **Vrchní.** Tak jdou, přivedou rychtáře. 
 
 **Franc** (se ukloní a odejde).
+
+</section>

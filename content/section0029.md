@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 7.
 
 Kněžna, dvořan, starý Žan.
@@ -17,3 +19,5 @@ Kněžna, dvořan, starý Žan.
 **Kněžna** (vlídné). Vy jste mne již uvítal a ostatek jak jsem řekla.
 
 **Žan** (odejde hlavním vchodem).
+
+</section>

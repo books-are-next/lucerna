@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 # Jednání třetí.
 
 Lesní palouk plný kopretin a zvonků. Na levo i v pozadí starý les. Na právo volno; jen několik bříz tu stojí u mokřiny, ve které leží několik kamenů pro snazší přejití. Na levo před lesem v palouku stará, košatá lípa kvetoucí. Noc; měsíc svítí, chvílemi se ženou přes něj mraky.
@@ -117,3 +119,5 @@ Sejtko, Zajíček, Zima, Klásek.
 (Vítr se náhle zdvihne, stromy hlasno zašumí.  Sešeří se.)
 
 **Klásek.** A jejej! (Ze strachu vyskočí.)
+
+</section>

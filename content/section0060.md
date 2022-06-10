@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 5.
 
 Sejtko, předešlí.
@@ -37,3 +39,5 @@ Zahrají, naslouchají, v tom se ozve na levo z lesa žalostné zapískání na 
 **Zima.** Psst!
 
 **Zajíček** (potěšen). Tu je!
+
+</section>

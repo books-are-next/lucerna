@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 8.
 
 Klásková, předešlí, pak Žan.
@@ -53,3 +55,5 @@ Klásková, předešlí, pak Žan.
 **Kněžna** (s povzdechem). To klid tajuplné samoty! Můj sen! Ó srdce lidské, neklid jsi. Mír prchá všude, jak se ozve jen tvůj tep. Ta cesta měla být mu zkouškou, trestem, a já sama jsem trestána. Co si o mně myslí! Do čeho mne ti služební horlivci zavedli! Abych byla v nenávisti. To za ten sen — (Odejde dveřmi na levo.)
 
 **Žan** (vezme lucernu a odejde za ní).
+
+</section>

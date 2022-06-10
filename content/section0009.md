@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 6.
 
 Hanička.
@@ -31,3 +33,5 @@ Hanička.
 **Hanička** (ani se neohlédnuvši zpívá dál a zavěsí čerstvý věneček z mateří doušky, jejž přinesla s kvítím, na místě uvadlého).  
 
 > Když po druhé ťali, krev se vyprýštila —
+
+</section>

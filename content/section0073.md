@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 9.
 
 Klásková, Ivan, Zima, Klásek, Sejtko.
@@ -35,3 +37,5 @@ Klásková, Ivan, Zima, Klásek, Sejtko.
 **Klásek** (za nimi). Bože, máma, jak ona mne hledala, a jakou starost o mne měla! (Odejde).
 
 Okamžik jeviště prázdno.
+
+</section>

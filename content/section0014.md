@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 11.
 
 Hanička, pak bába.
@@ -73,3 +75,5 @@ Pomlka.
 **Babička.** Vzácný poklad, drahá koruna. (Zasmuší se.) Pro ni snad se pánům teď i staré lípy zachtělo. Dědovi brali svobodu, vnukovi chtějí vzít majetek i právo —
 
 **Hanička** (s důvěrou). Libor se nedá.
+
+</section>

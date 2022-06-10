@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 4.
 
 Zajíček, Sejtko, Zima, Hanička, Míchal.
@@ -55,3 +57,5 @@ Zajíček, Sejtko, Zima, Hanička, Míchal.
 **Sejtko** (jenž vyhlédl na levo). Klásek! A jede! 
 
 **Zajíček.** Že jede?
+
+</section>

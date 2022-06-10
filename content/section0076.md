@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 2.
 
 Mušketýr, pan Franc, předešlí.
@@ -33,3 +35,5 @@ Lesní panny (zmizejí).
 Když měsíc jasně zase vysvítí, stojí pod lipou
 
 **Zajíček** (sám, užaslý. Pojednou se obrátí k lípě). Haničko! Haničko!
+
+</section>

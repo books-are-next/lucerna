@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 2.
 
 Vrchní, pak pan Franc a rychtářové.
@@ -25,3 +27,5 @@ Vrchní, pak pan Franc a rychtářové.
 **Rychtáři** (se uklánějí a odcházejí).
 
 **Vrchní.** Pane Franc, počkají.
+
+</section>

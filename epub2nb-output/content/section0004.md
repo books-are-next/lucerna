@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 1.
 
 _Mlynář, babička._  
@@ -31,3 +33,5 @@ _Mlynář, babička._
 **Babička** (s úsměvem). Jak chceš, jak chceš. No, možu zas po svém (odejde do komory).
 
 **Mlynář** (přehlíží, co napsal, obrací listy).
+
+</section>

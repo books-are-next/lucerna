@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jirasek-lucerna-48c9a73",
-  "revision": "48c9a73",
+  "identifier": "jirasek-lucerna-54c3d64",
+  "revision": "54c3d64",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -99,8 +99,8 @@
     "section0083.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:17:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870671863
+    "date": "Fri Jun 10 2022 17:52:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883539893
   },
   "documents": [
     {
@@ -118,9 +118,9 @@
     {
       "title": "Lucerna",
       "file": "section0001.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -1862,14 +1862,14 @@
   ],
   "totals": {
     "all": {
-      "words": 19606,
+      "words": 19607,
       "chars": 112276,
-      "ideas": 1645
+      "ideas": 1646
     },
     "chapters": {
-      "words": 19600,
+      "words": 19601,
       "chars": 112240,
-      "ideas": 1640
+      "ideas": 1641
     }
   }
 }

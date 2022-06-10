@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 4.
 
 Zajíček, Zima.
@@ -25,3 +27,5 @@ Jak dozní to znamení, ozve se z lesa na levo v popředí lesní roh.
 **Zajíček.** Sejtko! 
 
 **Zima.** Ten luciper!
+
+</section>

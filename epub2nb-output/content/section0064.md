@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 9.
 
 Míchal, pak Klásková.
@@ -121,3 +123,5 @@ Míchal, pak Klásková.
 **Míchal** (šklebě se, zajde do lesa). 
 
 **Klásková** (za ním).
+
+</section>

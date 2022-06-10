@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 5.
 
 Mlynář. Braha. 
@@ -23,3 +25,5 @@ Mlynář. Braha. 
 **Mlynář** (s úsměvem). Na suchu, bez kápky je bez síly. To vy taky, Braho, viďte. Pojďte. (Vkročí do mlýnice.)
 
 **Braha.** Jen se smějte! Abyste nelitoval. (Odejde za mlynářem.)
+
+</section>

@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 12.
 
 Klásek, předešlé.
@@ -23,3 +25,5 @@ Klásek, předešlé.
 **Babička.** A nějak zle. Viděla jsem ji od srubu a už venku se po vás zlostně sháněla.
 
 **Klásek.** A to snad ne, i bože ne, co by se zlobila, to ona se nezlobí! To já mám tuze hodnou ženu. Patnáct let, a kdepak, víc, jsme spolu a ještě jsme se nezlobili.
+
+</section>

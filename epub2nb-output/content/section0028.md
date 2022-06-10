@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 6.
 
 Předešlí bez pana France.
@@ -25,3 +27,5 @@ Rána z hmoždíře.
 **Zima** (za Zajíčkem). 
 
 Okamžik jeviště prázdno. Venku šum, směs hlasů.
+
+</section>

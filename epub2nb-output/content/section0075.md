@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 # Jednání čtvrté.
 
 Scéna jako počátkem třetího jednání. Měsíc svítí.
@@ -75,3 +77,5 @@ Tichá hudba náhle přestane, lesní panny zmizejí.
 **Zajíček.** Uteč, uteč, tady do lesa. 
 
 **Hanička.** Už je pozdě. Slyšíte?
+
+</section>

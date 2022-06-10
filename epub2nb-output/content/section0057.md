@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 2.
 
 Hejkal, předešlí. 
@@ -17,3 +19,5 @@ Hejkal, předešlí. 
 **Zajíček.** Lidičky, pro boha — počkejte! (pustí petici a utíká v pravo do popředí.)
 
 (Za stálého šumění lesa zmizí Hejkal. Jakmile zanikne, vyjasní se. Měsíc svítí, les utichne. Okamžik jeviště prázdno.)
+
+</section>

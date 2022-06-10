@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 7.
 
 Zajíček, Hanička.
@@ -43,3 +45,5 @@ Zajíček, Hanička.
 **Hanička.** Rozumím.
 
 **Zajíček** (vzrušuje se). Slyším, slyším. Jen ji chytit, chytit.
+
+</section>

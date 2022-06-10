@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 8.
 
 Mlynář, Hanička, Braha, Klásek, Klásková, Sejtko, Zima, Zajíček. 
@@ -45,3 +47,5 @@ Mlynař. A ty se mnou. (K lípě.) Buď požehnána! Dosud mně zní a pořád b
 **Klásek.** A pak naší mámě! (Zajde za ostatními v pravo.)
 
 Konec
+
+</section>

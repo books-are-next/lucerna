@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 6.
 
 Klásek, předešlí.
@@ -17,3 +19,5 @@ Klásek, předešlí.
 **Klásek** (vpadne). Na čerta, aby tě vzal (odejde kvapně na levo).
 
 **Sejtko** (jde za ním). Táto, táto!
+
+</section>

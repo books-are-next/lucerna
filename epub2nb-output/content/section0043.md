@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 7.
 
 Hanička, předešlí, pak kněžna.
@@ -19,3 +21,5 @@ Hanička, předešlí, pak kněžna.
 **Dvořan** (galantně zažertuje). A roztomilé. Jeden z nich si ponechám, a pro druhý si ke mně přijdeš.
 
 **Hanička** (rázem mu oba vytrhne). Oba mám; ani ten, ani ten vám nenechám. Pozor, pane, to není střevíček z hedvábí, to je dřevák a ten tvrdě přišlápne. (Odkvapí do mlýna, vesele si pozvukujíc.)
+
+</section>

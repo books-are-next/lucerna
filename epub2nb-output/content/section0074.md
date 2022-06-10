@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 10.
 
 Ivan, pak Míchal.
@@ -29,3 +31,5 @@ Ivan, pak Míchal.
 **Ivan.** Jen na dnešní noc, ale ne déle. A ne vzdychat a ne vrnět! Chci mít pokoj. (Odejde.)
 
 **Míchal** (postoupiv do terrasy, hledí smutně před se, pak vztáhne ruce na pravo pln toužebnosti). O mé sluníčko!
+
+</section>

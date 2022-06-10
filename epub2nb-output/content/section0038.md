@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 2.
 
 Hanička, předešlí.
@@ -25,3 +27,5 @@ Hanička, předešlí.
 **Ivan.** A budeš ještě víc, až přijdeš se hřbetem na strakato zmalovaným. Není ti pomoci. (Ustoupí a zmizí mezi stromy.)
 
 **Míchal** (za ním zavrčí, pak so schoulí do křoví).
+
+</section>

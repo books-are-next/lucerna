@@ -2,6 +2,8 @@
 contentType: drama
 ---
 
+<section>
+
 ### Výstup 15.
 
 Kněžna, dvořan, vrchní.
@@ -19,3 +21,5 @@ Kněžna, dvořan, vrchní.
 **Dvořan.** Je skutečně této chvíle na pováženou.
 
 **Kněžna.** Nic nechci, nežli s tím děvčetem promluvit, nic jiného, rozumíte mně. — Ah, tu je můj světlonoš a (k dvořanu) Dafnis.
+
+</section>

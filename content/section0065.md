@@ -1,5 +1,5 @@
 ---
-contentType: prose
+contentType: drama
 ---
 
 Terrasa lesního zámečku. Její střed vybíhá obloukovitě do pozadí; u toho výběžku s balustrádou široké schody v pravo v levo vedoucí dolů k jezírku. S terrasy dvéře v právo, v levo do křídel zámečku. Pod terrasou stromy. Výhled do pozadí na širé lesy za jezírkem. Noc; nad lesy měsíc.

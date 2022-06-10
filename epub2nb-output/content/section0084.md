@@ -1,5 +1,5 @@
 ---
-contentType: prose
+contentType: drama
 ---
 
 Znění tohoto textu vychází z díla Lucerna tak, jak bylo vydáno v nakladatelství Dilia v roce 1957 (JIRÁSEK, Alois. Lucerna : divadelní hra o čtyřech dějstvích. Praha : Dilia, 1957. 116 s.).

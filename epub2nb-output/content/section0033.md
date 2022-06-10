@@ -1,5 +1,5 @@
 ---
-contentType: prose
+contentType: drama
 ---
 
 ### Výstup 11.

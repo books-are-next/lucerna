@@ -116,6 +116,10 @@ Sejtko, Zajíček, Zima, Klásek.
 
 **Zima.** Nehřeš! (K Zajíčkovi.) Ještě jen do ohně fouk' a oheň shas', ani jiskra neostala, a najednou taková tma a nad hlavama v stromech ví —
 
+</section>
+
+<section>
+
 (Vítr se náhle zdvihne, stromy hlasno zašumí.  Sešeří se.)
 
 **Klásek.** A jejej! (Ze strachu vyskočí.)

@@ -8,6 +8,10 @@ contentType: drama
 
 Míchal, pak Klásková.
 
+</section>
+
+<section>
+
 **Míchal** (vykročí zpod lípy). Ti už nepřijdou. A teď, měsíčku, sviť, sviť, a ty, mé sluníčko, přijď! (Vyhlíží na pravo.) Ah, už jde! (Ustoupí pod lípu do stínu.)
 
 **Klásková** (vyjde z prava, zastaví se, rozhlíží se, spatří Míchala. Zeptá se bez bázně, z ostrá). Kdo je to pod lípou?

@@ -46,6 +46,10 @@ Mlynář, kněžna.
 
 **Kněžna.** Vy jste také jiný, nežli jsem slyšela.
 
+</section>
+
+<section>
+
 Klíč ve dveřích zarachotí.
 
 **Kněžna** (nemile tím překvapena).

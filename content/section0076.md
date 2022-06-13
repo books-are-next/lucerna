@@ -8,11 +8,19 @@ contentType: drama
 
 Mušketýr, pan Franc, předešlí.
 
+</section>
+
+<section>
+
 **Franc** (za scénou, z pokraje lesa na levo). Jen se nebojte
 
 **Mušketýr.** Co pak se bojím? (Vystoupí, bázlivě se rozhlíží.) Už je to pryč, myslím.
 
 **Franc** (vystoupí za ním, drží se ho bázlivě).
+
+</section>
+
+<section>
 
 V tom vyrojí se ze všech stran lesní panny, chytnou se za ruce a utvoří kruh kolem lípy. Tichá hudba.
 
@@ -27,6 +35,10 @@ V tom vyrojí se ze všech stran lesní panny, chytnou se za ruce a utvoří kru
 **Zajíček.** Bojím se o tebe. 
 
 **Hanička.** Chraň mne!
+
+</section>
+
+<section>
 
 V tom se sešeří, hudba ztichne.
 

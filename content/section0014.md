@@ -36,6 +36,10 @@ Hanička, pak bába.
 
 **Babička.** Však smutné je to světylko, když je nesou před knězem cestou k nemocnému, když smrt už čeká —
 
+</section>
+
+<section>
+
 Pomlka.
 
 **Hanička** (pojednou). A já, babičko, mám ráda lucernu i ve dne, bez světla.

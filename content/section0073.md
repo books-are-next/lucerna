@@ -36,6 +36,10 @@ Klásková, Ivan, Zima, Klásek, Sejtko.
 
 **Klásek** (za nimi). Bože, máma, jak ona mne hledala, a jakou starost o mne měla! (Odejde).
 
+</section>
+
+<section>
+
 Okamžik jeviště prázdno.
 
 </section>

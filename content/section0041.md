@@ -8,6 +8,10 @@ contentType: drama
 
 Klásek, předešlí.
 
+</section>
+
+<section>
+
 **Klásek** (z leva, veze na trakaři pytel obilí). Tu jsem. Ale honem pomozte mně složit, honem. A tuhle, pane učitelský (vytáhne z pod kabátu klarinet), podržte, prosím vás. Sejtko, pojď, pomoz. (Dojede ku dveřím mlýnským.) 
 
 **Sejtko** (mu pomůže pytel odnést do mlýna). 

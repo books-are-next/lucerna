@@ -8,6 +8,10 @@ contentType: drama
 
 Vrchní, polesný, důchodní, kontribuční, pojezdný, farář, pan Franc, Kroužilka, rychtáři, družice s kytkou, družičky.
 
+</section>
+
+<section>
+
 **Vrchní** (zardělý, zpocený, šátek v ruce, vcházeje, poroučí panu Francovi tlumeně, ale vzrušeně). Pane Franc, držejí to — špalír — (k úředníkům). Za mnou. (Jde, ukláněje se, ku křeslu).
 
 **Úředníci** (z hluboka se uklánějíce postaví se v pravo Farář v levo před křeslem).
@@ -93,6 +97,10 @@ Vrchní, polesný, důchodní, kontribuční, pojezdný, farář, pan Franc, Kro
 **Družice** (ji podá).
 
 **Kněžna.** Děkuju, hezké to bylo, propouštím vás.
+
+</section>
+
+<section>
 
 (Všichni odcházejí uklánčjíce se.)
 

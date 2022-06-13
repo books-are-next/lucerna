@@ -54,6 +54,10 @@ Pan Franc, mušketýr, Míchal.
 
 **Franc.** Marjá panno! (Staví se za mušketýra.) Co, co — je to?
 
+</section>
+
+<section>
+
 Náhle vysvítí měsíc, ostře se vyjasní.
 
 **Míchal** (v plném ozáření sedí nehybně, zašklebí se). Dnes se mně chce někoho utopit.

@@ -8,6 +8,10 @@ contentType: drama
 
 Kněžna, dvořan, vrchní.
 
+</section>
+
+<section>
+
 **Vrchní** (klaní se). Oh, Vaše Jasnost jediná jej skrotila. A jaký je to rabulist!
 
 **Kněžna** (nevšímajíc si vrchního, k dvořanu vesele). Jste spokojen?

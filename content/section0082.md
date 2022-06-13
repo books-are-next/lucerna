@@ -8,6 +8,10 @@ contentType: drama
 
 Mlynář, Hanička, Braha, Klásek, Klásková, Sejtko, Zima, Zajíček. 
 
+</section>
+
+<section>
+
 **Zajíček** (radostně vybuchne). Nebesa! Dorničko, svatby! Svatby! A jsem regenschori!
 
 **Braha.** Však jste byl hrdina.
@@ -45,6 +49,10 @@ Mlynař. A ty se mnou. (K lípě.) Buď požehnána! Dosud mně zní a pořád b
 **Zima,** **Sejtko** za ním
 
 **Klásek.** A pak naší mámě! (Zajde za ostatními v pravo.)
+
+</section>
+
+<section>
 
 Konec
 

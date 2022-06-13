@@ -8,6 +8,10 @@ contentType: drama
 
 Mlynář, předešlí.
 
+</section>
+
+<section>
+
 **Mlynář** (nesa rozžatou lucernu, stane u prahu). 
 
 **Kněžna** (k dvořanu). Sluší mu to i v té službě. 
@@ -61,6 +65,10 @@ Mlynář, předešlí.
 **Vrchní** (Odejde za dvořanem).
 
 **Kněžna** (jež usmívajíc se hleděla za nimi, obrátí se k mlynáři). A my půjdeme.
+
+</section>
+
+<section>
 
 (Měsíc vychází.)
 

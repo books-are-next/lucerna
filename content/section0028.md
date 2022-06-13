@@ -16,6 +16,10 @@ Předešlí bez pana France.
 
 **Zajíček.** Pro umučení! A má supplika, má ze všech nejmilejší Dornička!
 
+</section>
+
+<section>
+
 Rána z hmoždíře.
 
 **Sejtko.** Lidičky, pojďte ! (Kvapí ven.) 
@@ -25,6 +29,10 @@ Rána z hmoždíře.
 **Klásek** (za Zajíčkem). 
 
 **Zima** (za Zajíčkem). 
+
+</section>
+
+<section>
 
 Okamžik jeviště prázdno. Venku šum, směs hlasů.
 

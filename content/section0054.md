@@ -8,6 +8,10 @@ contentType: drama
 
 Braha, Klásková.
 
+</section>
+
+<section>
+
 **Braha** (hledě za nimi). To svět neviděl — Panské churoty ze mhy upletené —
 
 **Klásková** (z leva chvatně). Není tu, že tu není — 

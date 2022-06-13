@@ -22,6 +22,10 @@ Zajíček, Zima.
 
 **Zajíček** (zároveň s ním zapíská ji na klarinet).
 
+</section>
+
+<section>
+
 Jak dozní to znamení, ozve se z lesa na levo v popředí lesní roh.
 
 **Zajíček.** Sejtko! 

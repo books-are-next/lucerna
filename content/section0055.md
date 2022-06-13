@@ -8,6 +8,10 @@ contentType: drama
 
 Braha, Míchal, Hanička.
 
+</section>
+
+<section>
+
 **Braha.** A to je saň! Ta aby se s drakem pojímala. (Zajde do mlýna.)
 
 **Míchal** (povyleze z křoví, šklebě se.) Hehe, Ivan — Ten bude poklidně dýchat — na měsíčku — poklidně — Všecko tam běží — bude mít pěknou první noc — S muzikou — Ale mně přišla chvíle. Mlynář pryč — hehe —

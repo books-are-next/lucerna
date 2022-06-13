@@ -50,6 +50,10 @@ Vrchní, předešlí.
 
 **Vrchní.** Furiante! Nehrej si na zemana. A jsi přece poddaný a máš povinnost. A abys nezapomněl (velitelsky, přísně) lucernu dolů a ven s ní nade dvéře.
 
+</section>
+
+<section>
+
 Počíná prosvitat od měsíce. 
 
 **Mlynář.** Rozbiju ji.

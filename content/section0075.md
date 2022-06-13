@@ -8,6 +8,10 @@ contentType: drama
 
 Scéna jako počátkem třetího jednání. Měsíc svítí.
 
+</section>
+
+<section>
+
 ### Výstup 1.
 
 Hanička, pak Zajíček.
@@ -36,6 +40,10 @@ Hanička, pak Zajíček.
 
 **Hanička.** Slyším.
 
+</section>
+
+<section>
+
 (Z lesa se ozve tlumený zpěv lesních panen.)
 
 > Po mezi, po stráni, 
@@ -53,18 +61,32 @@ Hanička, pak Zajíček.
 > zavívá sladký dech 
 > 
 > mateří doušky. —
+> 
+>   
 
 **Hanička** (tiše). Rozumíš?
 
 **Zajíček** (vzrušen, tlumeně). Ó, rozumím.
 
+</section>
+
+<section>
+
 Tichá hudba z lesa.
 
 **Zajíček** (jako u vytržení). Tak to sladce zní a jako z temna dávných nocí vane, jako z dálky, z dětství tiše zvoní. Jak bych se sestrou zas naslouchal a hleděl v zrak nebožky matky, jenž do hloubi srdce hřál a vyzářil tak jako paprslek až na dno lesní studánky —
 
+</section>
+
+<section>
+
 U břiz se zjeví lesní panna, v tom povystoupí dvě z lesa v pozadí, na pravo jiné, jako plaché laně povyhlédnou a zase zmizejí; hned se jiné zjeví, za stromy, v paloučku.
 
 **Zajíček.** Můj bože, to je sen, to je sen — Haničko —
+
+</section>
+
+<section>
 
 Tichá hudba náhle přestane, lesní panny zmizejí.
 

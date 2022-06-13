@@ -8,6 +8,10 @@ contentType: drama
 
 Kněžna, dvořan.
 
+</section>
+
+<section>
+
 **Dvořan.** Jasnosti, že jste se bez průvodu odvážila! A právě sem, sem. Zde hledáte zábavu?
 
 **Kněžna.** Ne; jiné lidi, nová místa, jichž nuda nehlídá. Také ten zámeček v lesích mne zajímá.

@@ -8,6 +8,10 @@ contentType: drama
 
 Zajíček, za ním Klásek, Sejtko, Zima, předešlí.
 
+</section>
+
+<section>
+
 **Zajíček** (s klarinetem v ruce. Petice mu čouhá z kapsy. Hluboce se kloní).
 
 **Vrchní.** Co je to? Jak se opovažujete! Kdo ho sem pustil a ty tu —
@@ -39,6 +43,10 @@ Zajíček, za ním Klásek, Sejtko, Zima, předešlí.
 **Zajíček.** A tuhle suppliku — (vytáhne ji z kapsy). 
 
 **Vrchní.** Ještě suppliku! Člověče!
+
+</section>
+
+<section>
 
 Venku rána z hmoždíře. 
 

@@ -8,6 +8,10 @@ contentType: drama
 
 Hanička, předešlí, pak kněžna.
 
+</section>
+
+<section>
+
 **Hanička** (zpívá za scénou). Lohovskej pan vrchní hodnej pán, on trápí poddaný jak chce sám —
 
 **Dvořan** (naslouchá, pak s úsměvem k vrchnímu). To je na vás?

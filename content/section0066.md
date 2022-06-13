@@ -8,6 +8,10 @@ contentType: drama
 
 Komorná, pak Žan, předešlý.
 
+</section>
+
+<section>
+
 **Komorná** (vystoupí rychle, stane však všecka překvapena). Ah!
 
 **Žan** (za ní, nesa dvě židle, které postaví poblíže dveří na pravo). To se divíte, co? Snad už nebudete broukat, že nás kněžna sem poslala.

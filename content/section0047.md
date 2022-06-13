@@ -8,6 +8,10 @@ contentType: drama
 
 Kněžna, dvořan.
 
+</section>
+
+<section>
+
 **Dvořan.** Jasnosti, dovoluji si varovat, ten mlynář — 
 
 **Kněžna.** Proč? Toť přece muž, jenž zachoval si hlavu vztyčenou. Toť síla —

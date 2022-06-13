@@ -8,6 +8,10 @@ contentType: drama
 
 Klásková, hned za ní mlynář, Braha, předešlí.
 
+</section>
+
+<section>
+
 **Klásková** (stane nepozorovaně ve dveřích mlýnice).
 
 **Klásek.** To když já řeknu: mámo, teče voda nahoru, ona přisvědčí: teče, táto, teče. To je u nás táto, mámo pořád, to kdybych já řek' —

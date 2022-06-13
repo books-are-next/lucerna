@@ -8,6 +8,10 @@ contentType: drama
 
 Zajíček, předešlí. 
 
+</section>
+
+<section>
+
 **Zajíček** (ku Kláskovi). Tu je!
 
 **Hanička** (odnese nepozorovaně lucernu v pravo do komory a hned se zase vrátí). 

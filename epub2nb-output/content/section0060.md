@@ -8,6 +8,10 @@ contentType: drama
 
 Sejtko, předešlí.
 
+</section>
+
+<section>
+
 **Sejtko** (všechen pocuchaný). 
 
 **Zajíček.** Vy jste nám dal! 
@@ -22,6 +26,10 @@ Sejtko, předešlí.
 
 **Zima.** **Sejtko**  (s ním zatroubí).
 
+</section>
+
+<section>
+
 Okamžik naslouchají.
 
 **Sejtko.** Nic! Že ho popaď!
@@ -31,6 +39,10 @@ Okamžik naslouchají.
 **Zima** (vpadne). Psst! Toho mocnýho nejmenovat!
 
 **Zajíček.** Ještě jednou!
+
+</section>
+
+<section>
 
 Zahrají, naslouchají, v tom se ozve na levo z lesa žalostné zapískání na klarinet.
 

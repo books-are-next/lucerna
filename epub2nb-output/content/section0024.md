@@ -8,6 +8,10 @@ contentType: drama
 
 Vrchní, pak pan Franc a rychtářové.
 
+</section>
+
+<section>
+
 **Vrchní** (se opatrně rozhlédne, vytáhne z náprsní kapsy papír, šňupne si, rozbalí papír, čte. pak začne přecházeti, mluví polonahlas. opakuje si z listu, až jej položí na stolek u zdi, a vezme odtud svůj klobouk. S kloboukem v levé postaví se před křeslo pod nebesy, hluboce se klaní a začne): Nejjasnější, vzácné vznešenosti naše nejmilostivější paní, paní kněžno. Dlouho, toužebně očekávaný den nastal nám, (zarazí se nemoha dál, chce sáhnouti po papíru na stolku, postaví se však opět před křeslo a začne): Dlouho, toužebně očekávaný den nastal nám —
 
 **Franc** (vstoupí a hledí s údivem na vrchního).

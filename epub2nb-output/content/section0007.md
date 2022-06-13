@@ -8,6 +8,10 @@ contentType: drama
 
 Babička, předešlí.
 
+</section>
+
+<section>
+
 **Babička** (z komory; nesouc v pravé hliněnou misku, jde ku dveřím na síň).
 
 **Mlynář.** Kam jdete, babičko?

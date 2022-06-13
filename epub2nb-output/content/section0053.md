@@ -8,6 +8,10 @@ contentType: drama
 
 Braha, pak Hanička, pak babička; předešlí.
 
+</section>
+
+<section>
+
 **Braha** (vyjde kvapně ze mlýna). Pane otče, Hanička nechce zůstat u babičky. 
 
 **Hlas babiččin** (ze mlýna). Haničko! Haničko! 

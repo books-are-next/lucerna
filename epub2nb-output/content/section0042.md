@@ -8,6 +8,10 @@ contentType: drama
 
 Vrchní, dvořan.
 
+</section>
+
+<section>
+
 **Dvořan** (vyjde z leva za lávkou). To je ten mlýn ? 
 
 **Vrchní.** K službám. A v něm je ten zpurný mlynář. 

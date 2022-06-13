@@ -8,6 +8,10 @@ contentType: drama
 
 Klásek, předešlé.
 
+</section>
+
+<section>
+
 **Klásek** (má klarinet pod paždí). Dej pán bůh — (Stanuv ohlíží se.)
 
 **Hanička** (rychle odnáší lucernu a postaví ji na lavičce u kamen). Klásku, hledáte někoho?

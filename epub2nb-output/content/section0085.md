@@ -48,6 +48,9 @@ Votruba, rychtáři
 
 Zámečtí úředníci, farář, rychtáři, družice, Hejkal, lesní panny.
 
+  
+  
+
 (Děj za onoho času ve mlýně, na zámku, v lese a v lesním zámečku.)
 
 </section>

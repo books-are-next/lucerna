@@ -8,6 +8,10 @@ contentType: drama
 
 Mlynář, kněžna.
 
+</section>
+
+<section>
+
 **Mlynář** (z prava). Tady pozor, paní kněžno, tady je mokřina (svítí lucernou na půdu, když byl sám přešel), a tu jsou kameny.
 
 **Kněžna** (hledí na mokřinu). Ah, jak mokro! A mé střevíce a šaty! Jinudy není možná?
@@ -106,6 +110,10 @@ Mlynář, kněžna.
 
 **Mlynář.** Smutné království.
 
+</section>
+
+<section>
+
 Přes měsíc letí mračno, pod lipou se sešeří.
 
 **Kněžna** (tlumeně vykřikne a přisedne blíž). Tak náhle tma —
@@ -121,6 +129,10 @@ Přes měsíc letí mračno, pod lipou se sešeří.
 **Mlynář** (tak činí).
 
 **Kněžna.** Ještě dál, za strom, a (zastřeným hlasem) povídejte.
+
+</section>
+
+<section>
 
 V tom vysvitne jasně měsíc.
 
@@ -174,9 +186,17 @@ V tom vysvitne jasně měsíc.
 
 **Kněžna.** To ráda slyším. A netřeba pospíchat. Je tak krásně. (Slastně se přichoulí.) Tak povídejte.
 
+</section>
+
+<section>
+
 V tom v pravo v pozadí ozve se na lesní roh krátký signál.
 
 **Kněžna.** Co to je?
+
+</section>
+
+<section>
 
 Hned na to v pravo, v popředí a blíž opakuje klarinet týž signál.
 

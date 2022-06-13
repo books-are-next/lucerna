@@ -64,6 +64,10 @@ Kněžna, dvořan.
 
 **Dvořan** (káravě). Jasnosti! A račte pamatovat — (ukáže k oknu).
 
+</section>
+
+<section>
+
 Rána z hmoždíře, hned za ní druhá.
 
 **Dvořan.** Slyšíte? 
@@ -82,6 +86,10 @@ Rána z hmoždíře, hned za ní druhá.
 
 **Kněžna.** A zase řeči vyslýchat — oh! —
 
+</section>
+
+<section>
+
 Intrada venku.
 
 **Kněžna** (zatleská rukama). Už jsem přijela! Už jsem tu, už vítají, haha — prázdný kočár. Už —
@@ -89,6 +97,10 @@ Intrada venku.
 **Dvořan.** A již také o vás vědí. Sem se obracejí. Račte se jim v okně ukázat. (Naléhavě). Prosím, Jasnosti! 
 
 **Kněžna.** V okně ukázat? To ještě nebylo. Ano. (Stane u otevřeného okna.)
+
+</section>
+
+<section>
 
 Venku: Vivat! Vivat!
 
@@ -101,6 +113,10 @@ Venku: Vivat! Vivat!
 Venku : Vivat! Vivat!
 
 **Kněžna** (ku dvořanovi). Slyšíte nadšení a lásku? Za to jim musím pokynout.
+
+</section>
+
+<section>
 
 Venku intrada, pak : Vivat!
 

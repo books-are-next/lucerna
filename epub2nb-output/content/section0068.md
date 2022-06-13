@@ -8,6 +8,10 @@ contentType: drama
 
 Žan, komorná.
 
+</section>
+
+<section>
+
 **Žan** (nese stůl s komornou). Do předu, dál do předu, tak —
 
 **Komorná.** Tak pan hrabě opravdu nepřijde?
@@ -57,6 +61,10 @@ contentType: drama
 **Komorná** (vykřikne a vskočí do vnitř).
 
 **Žan** (za ní).
+
+</section>
+
+<section>
 
 Dvéře bouchnou. Je slyšeti, jak rychle, rozčileně otáčejí klíč v zámku.
 

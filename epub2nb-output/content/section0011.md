@@ -8,6 +8,10 @@ contentType: drama
 
 Mlynář, předešlí.
 
+</section>
+
+<section>
+
 **Mlynář** (stane nepozorován ve dveřích mlýnice).
 
 **Zajíček.** Ale někdy, když se na mne tak jako s kruchty dívají a nejvíc když mne litují ale opravdu nic při tom necítí leda libost a spokojenost, že jim je lip, když se musím krčit, vykřikne to ve mně, zbouří se opravdu —

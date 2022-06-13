@@ -8,6 +8,10 @@ contentType: drama
 
 Klásek, předešlí.
 
+</section>
+
+<section>
+
 **Klásek.** Ach, bože, jste to vy, Zimo, vy, pane učitelský (osopí se na Sejtka), a ty, melhubo.
 
 **Zima.** Psst, ticho a radši hned odtud. (Odchází na levo.)

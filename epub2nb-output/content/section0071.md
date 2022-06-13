@@ -82,9 +82,17 @@ Kněžna. mlynář.
 
 **Mlynář** (poddávaje se). Paní kněžno —
 
+</section>
+
+<section>
+
 V pravo pod schody náhle hlas Kláskové.
 
 **Klásková.** I ty obludo! Chyťte ho!
+
+</section>
+
+<section>
 
 Směs hlasů Sejtkova, Zimová, Kláskova, pak žblunknutí vody a zařehtání.
 

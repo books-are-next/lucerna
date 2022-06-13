@@ -8,6 +8,10 @@ contentType: drama
 
 Mlynář, předešlí.
 
+</section>
+
+<section>
+
 **Mlynář** (z leva, vyrazí z lesa). Opovážíte-li se — (udeří na pacholky). Pryč! (Jednomu vytrhne sekeru.)
 
 **Zajíček.** Bože!

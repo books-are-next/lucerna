@@ -8,6 +8,10 @@ contentType: drama
 
 Babička, předešlí.
 
+</section>
+
+<section>
+
 **Babička** (vyjde ze světničky, nesouc několik prutů černobýlu). Tu je Černobýl. Ah!
 
 **Hanička** (se k ní přitulí).
@@ -21,6 +25,10 @@ Babička, předešlí.
 **Mlynář** (s provazem v ruce). Už jdu! (Žene se po vodníkovi.)
 
 **Míchal.** Však já ještě přijdu! (Zmizí z okna. Ozve se krátké zařehtání, pak žbluňknutí.)
+
+</section>
+
+<section>
 
 Okamžik ticho. 
 

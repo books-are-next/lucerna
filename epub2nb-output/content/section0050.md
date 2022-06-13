@@ -8,6 +8,10 @@ contentType: drama
 
 Babička, předešlí. 
 
+</section>
+
+<section>
+
 **Babička** (stane na prahu).
 
 **Mlynář.** Nevzdám se té lípy, protože je mým dědictvím po dědu a pradědu; je našeho rodu od nepaměti. Rostla staletí, a kdybych vám ji vydal, padla by chvilkou. A jak moh' bych dopustit, aby klesla poražena, aby padla její koruna, kdež ptactvo nocuje a spí a zpívá. A co pod ní, v jejím stínu, za parna v poledne i podvečer, co tam lidí odpočívalo a odpočine, co hovorů tu, rozprávek, starých pamětí o divných dějích. Pokolení jde za pokolením, a lípa pořád chrání je a stíní.

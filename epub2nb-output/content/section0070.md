@@ -8,6 +8,10 @@ contentType: drama
 
 Žan, předešli.
 
+</section>
+
+<section>
+
 **Žan** (otevřev dvéře, vyhlédne opatrně). Chvála bohu! (Vyjde, obrací oči po schodech na levo.)
 
 **Kněžna.** Ah, starý Žan. Nechci ještě nic.

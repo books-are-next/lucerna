@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jirasek-lucerna-10755fc",
-  "revision": "10755fc",
+  "identifier": "jirasek-lucerna-87bcf2b",
+  "revision": "87bcf2b",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -99,8 +99,8 @@
     "section0083.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:55:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157345479
+    "date": "Wed Jun 15 2022 05:52:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272363023
   },
   "documents": [
     {

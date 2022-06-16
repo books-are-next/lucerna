@@ -5,11 +5,11 @@
   "title": "Lucerna",
   "author": "Alois Jirásek",
   "publisher": "Městská knihovna v Praze",
-  "edition": "beletrie",
+  "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jirasek-lucerna-87bcf2b",
-  "revision": "87bcf2b",
+  "identifier": "jirasek-lucerna-dc80ec4",
+  "revision": "dc80ec4",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -99,8 +99,8 @@
     "section0083.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:52:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272363023
+    "date": "Thu Jun 16 2022 12:01:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655380892322
   },
   "documents": [
     {
@@ -1863,7 +1863,7 @@
   "totals": {
     "all": {
       "words": 19607,
-      "chars": 112276,
+      "chars": 112273,
       "ideas": 1646
     },
     "chapters": {

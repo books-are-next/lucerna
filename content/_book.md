@@ -9,7 +9,7 @@ meta:
   title: Lucerna
   identifier: 9051affe-e573-41ad-80b8-65d291636472
   author: Alois Jirásek
-  edition: beletrie
+  edition: drama
   publisherShort: mkp
   publisher: Městská knihovna v Praze
 readingOrder:

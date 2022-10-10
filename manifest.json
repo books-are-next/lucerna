@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jirasek-lucerna-2e07b6e",
-  "revision": "2e07b6e",
+  "identifier": "jirasek-lucerna-e00675f",
+  "revision": "e00675f",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -99,8 +99,8 @@
     "section0083.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:59:46 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151186115
+    "date": "Mon Oct 10 2022 15:51:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417092931
   },
   "documents": [
     {
